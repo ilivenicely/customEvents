@@ -1,0 +1,10 @@
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\bin\Debug\Mccormick_Rob_CE03.exe.config
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\bin\Debug\Mccormick_Rob_CE03.exe
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\bin\Debug\Mccormick_Rob_CE03.pdb
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\obj\Debug\Mccormick_Rob_CE03.csprojResolveAssemblyReference.cache
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\obj\Debug\Mccormick_Rob_CE03.Form1.resources
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\obj\Debug\Mccormick_Rob_CE03.Form2.resources
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\obj\Debug\Mccormick_Rob_CE03.Properties.Resources.resources
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\obj\Debug\Mccormick_Rob_CE03.csproj.GenerateResource.Cache
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\obj\Debug\Mccormick_Rob_CE03.exe
+c:\users\robertmccormick\documents\visual studio 2015\Projects\Mccormick_Rob_CE03\Mccormick_Rob_CE03\obj\Debug\Mccormick_Rob_CE03.pdb
